@@ -14,7 +14,7 @@ function linpaDados(){
     pLocalidade.innerHTML ='';
     
 }
-
+// aula
 const api = axios.create({
     baseURL:'http://viacep.com.br/ws/'
 });
